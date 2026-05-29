@@ -297,8 +297,8 @@ Connect it to the processed data file in `data/processed/`.
 
 If you found this project helpful or have feedback, feel free to connect:
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankar-goswami-23a196245/)
+- 📧 goswamijit99@gmail.com
 
 ---
 
