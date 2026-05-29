@@ -285,7 +285,7 @@ Connect it to the processed data file in `data/processed/`.
 
 | Page | Preview |
 |---|---|
-| Executive Summary | ![Executive Summary](Screenshots/Screenshot 2026-05-29 103953.png) |
+| Executive Summary | ![Executive Summary](images/executive_summary.png) |
 | Customer Analysis | ![Customer Analysis](images/customer_analysis.png) |
 | Loan Risk Analysis | ![Loan Risk Analysis](images/loan_risk_analysis.png) |
 | Transaction & Payment Analysis | ![Transaction & Payment](images/transaction_payment.png) |
