@@ -285,7 +285,7 @@ Connect it to the processed data file in `data/processed/`.
 
 | Page | Preview |
 |---|---|
-| Executive Summary | ![Executive Summary](images/executive_summary.png) |
+| Executive Summary | ![Executive Summary](https://github.com/Ankar-G/Bank-Loan-Risk-Analysis/blob/main/Screenshots/Screenshot%202026-05-29%20103953.png) |
 | Customer Analysis | ![Customer Analysis](images/customer_analysis.png) |
 | Loan Risk Analysis | ![Loan Risk Analysis](images/loan_risk_analysis.png) |
 | Transaction & Payment Analysis | ![Transaction & Payment](images/transaction_payment.png) |
