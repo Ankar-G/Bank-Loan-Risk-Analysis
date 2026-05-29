@@ -286,10 +286,10 @@ Connect it to the processed data file in `data/processed/`.
 | Page | Preview |
 |---|---|
 | Executive Summary | ![Executive Summary](https://github.com/Ankar-G/Bank-Loan-Risk-Analysis/blob/main/Screenshots/Screenshot%202026-05-29%20103953.png) |
-| Customer Analysis | ![Customer Analysis](images/customer_analysis.png) |
-| Loan Risk Analysis | ![Loan Risk Analysis](images/loan_risk_analysis.png) |
-| Transaction & Payment Analysis | ![Transaction & Payment](images/transaction_payment.png) |
-| Customer Segmentation | ![Customer Segmentation](images/customer_segmentation.png) |
+| Customer Analysis | ![Customer Analysis](https://github.com/Ankar-G/Bank-Loan-Risk-Analysis/blob/main/Screenshots/Screenshot%202026-05-29%20104005.png) |
+| Loan Risk Analysis | ![Loan Risk Analysis](https://github.com/Ankar-G/Bank-Loan-Risk-Analysis/blob/main/Screenshots/Screenshot%202026-05-29%20104017.png) |
+| Transaction & Payment Analysis | ![Transaction & Payment](https://github.com/Ankar-G/Bank-Loan-Risk-Analysis/blob/main/Screenshots/Screenshot%202026-05-29%20104027.png) |
+| Customer Segmentation | ![Customer Segmentation](https://github.com/Ankar-G/Bank-Loan-Risk-Analysis/blob/main/Screenshots/Screenshot%202026-05-29%20104038.png) |
 
 ---
 
